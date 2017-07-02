@@ -1,0 +1,202 @@
+body{
+	background: #444d5b;
+	background:darkgray url(http://wallpapercave.com/wp/GUAaScC.jpg) 
+
+}
+.first{
+	width: 100%;
+	height: 40px;
+	background: black;
+}
+.sol{
+	width: 800px;
+	height: 40px;
+	background: black;
+	margin: 0px auto;
+
+}
+.sag{
+	float: right;
+	padding: 8px 8px 8px 8px;
+}
+.sag img{
+	width: 15px;
+	height: 15px;
+	padding: 0px;
+
+}
+.sag2{
+	float: right;
+	padding: 8px 8px 8px 8px;
+	border-right: 1px solid white;
+}
+.sag2 img{
+	width: 15px;
+	height: 15px;
+}
+.sag3{
+		float: right;
+	padding: 8px 8px 8px 8px;
+	border-right: 1px solid white;
+}
+.second{
+	width: 800px;
+	height: 300px;
+	
+	margin: 30px auto;
+}
+.logo{
+	width:100%;
+	height:50px;
+	background: black;
+}
+.lsol{
+	float: left;
+	padding:8px 8px 8px 8px; 
+
+}
+.star{
+	float: right; 
+	padding:10px 50px 0px 5px;
+	border-left: 1px solid silver;
+
+}
+.star img{
+	width: 20px;
+	height: 20px;
+	padding: 0px 0px 0px 0px;
+}
+.code{
+	float:right;
+	padding:30px 15px 0px 5px;
+	border-left: 1px solid silver;
+}
+.blog{
+	
+	float:right;
+	padding:30px 15px 0px 5px;
+	border-left: 1px solid silver;
+}
+.page{
+	float:right;
+	padding:30px 15px 0px 5px;
+	border-left: 1px solid silver;
+}
+.port{
+	float:right;
+	padding:30px 15px 0px 5px;
+	border-left: 1px solid silver;
+}
+.slide{
+	float:right;
+	padding:10px 15px 0px 5px;
+	border-left: 1px solid silver;
+}
+.slide img{
+	width: 20px;
+	height: 15px;
+
+}
+.home{
+	float:right;
+	padding:10px 15px 0px 5px;
+	border-left: 1px solid silver;
+}
+.home img{
+	width: 25px;
+	height: 15px;
+}
+.photo{
+	width: 100%;
+	height: 350px;
+	margin: 0px auto;
+
+}
+.third{
+	width: 100%;
+	background: rgba(255, 255, 255,0.8);
+	margin: 0px auto;
+}
+
+.sekil1{
+	width: 160px;
+	height:150px;
+	
+	margin: 15px 15px 15px 30px;
+	display: inline-block;
+
+}
+.sekil2{
+	width: 160px;
+	height:150px;
+	
+	margin: 15px 15px 15px 15px;
+	display: inline-block;
+
+}
+.sekil3{
+	width: 160px;
+	height:150px;
+	
+	margin:15px 15px 15px 15px;
+	display: inline-block;
+
+}
+.sekil4{
+	width: 160px;
+	height:150px;
+	margin: 15px 15px 15px 15px;
+	display: inline-block;
+
+}
+.yazilar{
+	width: 100%;
+	margin: 0px auto;
+	display: inline-block;
+
+}
+.yazi1{
+	width: 160px;
+	padding: 0px 20px 20px 30px;
+	display: inline-block;
+}
+.yazi2{
+	width: 160px;
+	padding: 10px 0px 0px 10px;
+	display: inline-block;
+}
+.yazi3{
+
+	width: 160px;
+	padding: 10px 0px 0px 30px;
+	display: inline-block;
+}
+.yazi4{
+
+	width: 160px;
+	padding: 10px 0px 0px 30px;
+display: inline-block;
+	
+}
+.fourth{
+	width: 100%;
+	height:100px;
+	background: rgba(255, 255, 255, 1);
+	margin: 20px auto;
+	
+
+}
+
+.fourth1 img{ 
+	width: 200px;
+	height: 100px;
+	padding: 0px 55px 0px 0px;
+	border-right:  1px solid black;
+	display: inline-block;
+
+}
+.fourth2{
+	float: right;
+	padding: 20px 35px;
+	display: inline-block;
+}
