@@ -1,0 +1,46 @@
+.body{
+
+}
+
+.cover{
+	width: 1000px;
+	height: 400px;
+	background: red;
+	margin: 50px auto;
+	position: relative;
+	
+
+}
+.cover img{
+	width: 1000px;
+	height: 400px;
+	position: absolute;
+
+}
+.sol1{
+	width: 50px;
+	height: 100px;
+	background: rgba(218, 222, 229,0.5);
+	border-radius: 0px 40px 40px 0px;
+	margin-top: 150px; 
+	float: left;
+	position: absolute;
+
+
+}
+.sag1{
+	width: 50px;
+	height: 100px;
+	background: rgba(218, 222, 229,0.5);
+	border-radius:40px 0px 0px 40px;
+	margin-top: 150px; 
+	float: right;
+	right: 0px;
+	position: absolute;
+}
+.second{
+	width: 100%;
+	height: 50px;
+	background: blue;
+
+}
