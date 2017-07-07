@@ -1,0 +1,17 @@
+body{
+
+}
+.gallery{
+	width: 100%;
+	
+	
+	margin: 10px auto;
+}
+.box{
+	
+	
+	background: black;
+	margin:  10px;
+	float: left;
+
+}
