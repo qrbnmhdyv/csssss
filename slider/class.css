@@ -1,0 +1,82 @@
+/*
+.text{
+	width: 500px;
+	text-align: justify;
+	background: white;
+	margin: 0px auto;
+	border:1px solid black;
+	overflow:hidden;*/
+
+	
+
+
+/*.bar {
+    height: 34px;
+    font-size: 14px;
+    padding-right: 10px;
+    background: #ddddcd;
+}*/
+/*.a {
+    display: inline-block;
+}
+.b {
+    display: inline-block;
+}
+.c {
+    display: inline-block;
+}*/
+/*.text{
+	width: 30%;
+	height: 400px;
+	background: silver;
+	margin:0px auto;
+	display: inline-block;
+
+}
+.bucaq{
+
+border-style: solid;
+border-width: 100px 0 100px 200px;
+border-color: transparent transparent transparent silver ;
+display: inline-block;
+margin-bottom: 100px; 
+}*/
+/*.text{
+	width: 30%;
+	height: 50px;
+	background: silver;
+}
+.d {
+    position:relative;
+}
+.d:before {
+    content:"\A";
+    border-style: solid;
+    border-width: 10px 15px 10px 0;
+    border-color: transparent #dd4397 transparent transparent;
+    position: absolute;
+    left: -15px;
+}
+*/.comment{
+	width:500px;
+	border-radius:10px;
+	border:1px solid black;
+	background:gray;
+	padding:15px;
+	position:relative;
+}
+.comment:after{
+content: "";
+width:0px;
+height:0px;
+border-right:20px solid transparent;
+border-left:20px solid gray;
+border-top:20px solid transparent;
+border-bottom:20px solid transparent;
+position:absolute;
+top:30%;
+right:-40px;
+}
+.comment p{
+	text-align:justify;
+}

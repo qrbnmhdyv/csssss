@@ -1,0 +1,14 @@
+body{
+
+}
+*{
+	transition: all .9s cubic-bezier(0, 1.25, 1,-0.21);
+}
+div{
+	width: 200px;
+	height: 200px;
+	background: silver;
+	position: relative;
+	left: 0;
+	border border-radius: 50%;
+}
