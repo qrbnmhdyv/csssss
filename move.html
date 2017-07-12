@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Move</title>
+	<style>
+		body{
+			margin:0;
+			width:100vw;
+			height:900px;
+		}
+		.left{
+			width:50%;
+			height:100%;
+			float:left;
+			background:lightgray;
+		}
+		.left>div,.right>div{
+			width:calc(33.33% - 20px);
+			margin:10px;
+			height:100px;
+			background:red;
+			float:left;
+		}
+		.right{
+			height:100%;
+			width:50%;
+			float:right;
+			background:gray;
+		}
+	</style>
+</head>
+<body>
+<div class="left">
+	
+</div>
+<div class="right"></div>
+<button onclick="moveElements()">Move Elements</button>
+<script>
+	var left=document.querySelector(".left")
+	var right=document.querySelector(".right")
+	var elements=[];
+	for(i=0;i<10;i++){
+		var div=document.createElement("div");
+		left.appendChild(div);
+		div.innerHTML=i
+		div.addEventListener("click",function(){
+			this.style.background="yellow"
+			elements.push(this)
+		})
+	}
+	function moveElements(){
+		for(i=0;i<elements.length;i++){
+			right.appendChild(elements[i])
+		}
+	}
+</script>
+</body>
+</html>
