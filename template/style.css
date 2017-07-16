@@ -1,0 +1,340 @@
+body{
+	margin: 0;
+	font-family: 'ABeeZee', sans-serif;
+	
+}
+.fon{
+	width: 100%;
+	height: 778px;
+	background: silver; 
+	position: relative;
+	
+}
+.fon img{
+	width: 100%;
+	height:100%;
+}
+
+.box1{
+	width: 1200px;
+	height: 50px;
+
+	position: absolute;
+	top: 80px;
+
+}
+
+.box2{
+	width: 100%;
+	height:70px;
+	position: absolute;
+	top: 250px;
+}
+.box2 p{
+	font-size: 40px;
+	color:black;
+	text-align: center;
+
+}
+.box3{
+	width: 100%;
+	height: 40px;
+	position: absolute;
+	top: 340px;
+}
+.box3 p{
+	font-size: 18px;
+	color:rgb(201, 201, 197);
+	text-align: center;
+
+}
+
+.box4{
+	width: 300px;
+	height:80px;
+	position: absolute;
+	top: 430px;
+	left: 550px;
+	
+
+}
+.btn{
+	width: 250px;
+	height:70px;
+	border-radius: 10px;
+	background: rgba(61, 201, 179, 1);
+
+}
+.fon2{
+	width: 100%;
+	height: 400px;
+	background:#f3f5f8;;
+	margin-top: -15px;
+	position: relative;
+}
+.text1{
+	width: 100%;
+	height: 30px;
+	position: relative;
+	top: 100px;
+}
+.text1 p{
+ color:#353535;
+ text-align: center;
+}
+.text2{
+	width: 250px;
+	height: 30px;
+	position: relative;
+	top: 100px;
+	left: 550px;
+}
+.text3{
+	width: 750px;
+	position: relative;
+	top: 123px;
+	left: 300px;
+}
+a:link{
+	color: black;
+	text-decoration: none;
+}
+.fon3{
+	width: 100%;
+	position: relative;
+}
+.yazi{
+	width: 500px;
+	position: relative;
+	left: 490px;
+	top: 85px;
+}
+.yazi2{
+	width: 500px;
+	position: relative;
+	left: 550px;
+	top: 85px;
+}
+.fon4{
+	width: 100%;
+	height: 700px;
+	
+}
+.boxes{
+	width: 300px;
+	display: inline-block;
+	position: relative;
+	top: 160px;
+	left: 200px;
+	margin-left: 10px;
+}
+.qutular{
+	width: 300px;
+	height: 200px;
+	background:white;
+
+}
+.icons{
+	width: 175px;
+	height: 175px;
+	border-radius: 50%;
+	background:rgba(61, 201, 179, 1);
+	position: relative;
+	left: 60px;
+	top: 20px;
+
+}
+.icons i{
+	padding: 55px;
+}
+.basliq{
+	width: 100%;
+	height: 100px;
+}	
+h2{
+	font-size: 16px;
+    color: #353535;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.basliq h2::after{
+	 content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    margin: 25px auto;
+}
+.yazilar{
+	width: 100%;
+	height: 100%;
+	margin: -17px 25px;
+}
+.yazilar>p{
+	color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.fon5{
+	width: 100%;
+	height: 650px;
+	background: #f3f5f8;;
+}
+.iphone{
+	width: 50%;
+	height: 650px;
+	display: inline-block;
+
+	overflow: hidden;
+}
+.iphone img{
+	position: relative;
+	left: 200px;
+
+}
+.metn{
+	width:50%;
+	height: 500px;
+	background: white;
+	display: inline-block;
+	position: absolute;
+	
+	
+}
+.sag1{
+	height: 30px;
+	position: absolute;
+	top: 150px;
+	left: 200px;
+
+}
+.sag2{
+	height: 40px;
+	position: absolute;
+	top: 200px;
+	left: 225px;
+}
+.sag3{
+	width:500px;
+	position: absolute;
+	margin:250px 100px;
+}
+
+
+.buton{
+	width: 668px;
+	height: 150px;
+	background: white;
+	position: absolute;
+	display: inline-block;
+	top: 500px;
+	
+}
+.fon6{
+	width: 100%;
+	height: 320px;
+	overflow: hidden;
+    background-image: url("cover.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.fon6 p{
+	color:white;
+	font-size: 50px;
+	text-align: center;
+	padding: 20px 0px 0px 0px;
+}
+.fon6 a{
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	padding: 0px 0px 0px 480px;
+	overflow: hidden;
+}
+.fon7{
+	width: 100%;
+	height: 550px;
+	background: white;
+
+}
+.pages{
+	width: 370px;
+	height: 450px;
+	background: white;
+	display: inline-block;
+	position: relative;
+	top: 50px;
+	left: 90px;
+	margin-left: 10px;
+}
+.photos{
+	width: 100%;
+	height: 220px;
+	background: white;
+}
+.photos img{
+	width: 100%;
+	height: 100%;
+
+}
+.esas{
+	width: 100%;
+	height: 70px;
+	position: relative;
+	top: 0px;
+
+}
+.esas h2{
+	padding: 0px 0px 0px 120px;
+	overflow: hidden;
+}
+h2::after {
+    content: " ";
+    border: solid 2px #3dc9b3;
+    display: block;
+    width: 35px;
+    margin: 25px 55px;
+}
+.lorem{
+	width: 100%;
+	position: relative;
+	top: 0px;
+}
+.lorem p{
+	padding-left: 15px; 
+	color: #8c9398;
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 14px;
+}
+.butonlar{
+	width: 100%;
+	height: 100px;
+	position: absolute;
+	background: white;
+}
+
+.fon8{
+	width: 100%;
+	height: 150px;
+	background: #242830;;
+}
+.butons{
+	width: 280px;
+	height: 70px;
+	position: relative;
+	left: 545px;
+	top: 50px;
+	background: #242830;
+
+}
+.butons p{
+	color: white;
+	font-size: 16px;
+}
+.butons:hover, .p:focus {
+    color: #3dc9b3;
+    border: solid 1px #3dc9b3;
+
+	   }
